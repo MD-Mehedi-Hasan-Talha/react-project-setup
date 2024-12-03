@@ -18,7 +18,7 @@ cd ./react-project-setup
 
 4. Install all required packages - 
 ```sh
-   npm i
+npm i
 ```
 
 5. Start your development server - 
@@ -28,7 +28,6 @@ npm run dev
 
 6. Open your browser and visit - 
 ```sh
-   http://localhost:5173
-
+http://localhost:5173
 ```
 or your corresponding port.
