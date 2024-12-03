@@ -16,15 +16,19 @@ git clone https://github.com/MD-Mehedi-Hasan-Talha/react-project-setup.git
 cd ./react-project-setup
 ```
 
-4. Install all required packages - ```sh
+4. Install all required packages - 
+```sh
    npm i
 ```
 
-5. Start your development server - ```sh
+5. Start your development server - 
+```sh
 npm run dev
 ```
 
-6. Open your browser and visit - ```sh
+6. Open your browser and visit - 
+```sh
    http://localhost:5173
 
-```or your corresponding port.
+```
+or your corresponding port.
