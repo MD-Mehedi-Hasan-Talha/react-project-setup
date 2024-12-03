@@ -16,7 +16,7 @@ git clone https://github.com/MD-Mehedi-Hasan-Talha/react-project-setup.git
 cd ./react-project-setup
 ```
 
-4. Install all required packages - ```
+4. Install all required packages - ```sh
    npm i
 ```
 
