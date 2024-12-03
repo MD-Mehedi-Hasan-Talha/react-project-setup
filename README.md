@@ -4,12 +4,27 @@ Please follow the below instructions to run different branches of this repositor
 
 1. Login to your GitHub account in your Terminal.
 
-2. Clone this repository - ```sh git clone https://github.com/MD-Mehedi-Hasan-Talha/react-project-setup.git```
+2. Clone this repository -
 
-3. Go to the cloned project directory - ```sh cd ./react-project-setup```
+```sh
+git clone https://github.com/MD-Mehedi-Hasan-Talha/react-project-setup.git
+```
 
-4. Install all required packages - ```npm i```
+3. Go to the cloned project directory -
 
-5. Start your development server - ```npm run dev```
+```sh
+cd ./react-project-setup
+```
 
-6. Open your browser and visit - ```http://localhost:5173``` or your corresponding port.
+4. Install all required packages - ```
+   npm i
+```
+
+5. Start your development server - ```sh
+npm run dev
+```
+
+6. Open your browser and visit - ```sh
+   http://localhost:5173
+
+```or your corresponding port.

@@ -59,7 +59,7 @@ export default function AppComponent() {
               <li className="py-1">
                 Clone this repository -{" "}
                 <code className="p-1 bg-gray-200 border rounded">
-                  sh git clone
+                  git clone
                   https://github.com/MD-Mehedi-Hasan-Talha/react-project-setup.git
                 </code>
               </li>
@@ -67,7 +67,7 @@ export default function AppComponent() {
                 Go to the cloned project directory -{" "}
                 <code className="p-1 bg-gray-200 border rounded">
                   {" "}
-                  sh cd ./react-project-setup{" "}
+                  cd ./react-project-setup{" "}
                 </code>
               </li>
               <li className="py-1">
